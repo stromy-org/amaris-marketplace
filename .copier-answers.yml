@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; DO NOT edit manually.
+_commit: 37056c3
+_src_path: gh:stromy-org/claude-marketplace-template
+author_name: William Masquelier
+client_name: Amaris Consulting
+client_slug: amaris
+github_org: stromy-org
+marketplace_name: Amaris Consulting Plugin Marketplace
+marketplace_slug: amaris-marketplace
+plugin_description: Claude Code plugin for Amaris Consulting branded deliverables and brand tools
+plugin_slug: amaris-plugin
