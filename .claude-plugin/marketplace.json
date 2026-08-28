@@ -9,7 +9,7 @@
     {
       "name": "amaris-consulting",
       "description": "Claude Code plugin for Amaris Consulting branded deliverables and brand tools",
-      "version": "0.3.8",
+      "version": "0.3.10",
       "author": {
         "name": "stromy-org"
       },
