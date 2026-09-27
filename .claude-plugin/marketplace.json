@@ -1,15 +1,15 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "amaris-marketplace",
+  "description": "Amaris Consulting plugin marketplace",
   "owner": {
     "name": "stromy-org"
   },
-  "description": "Amaris Consulting plugin marketplace",
   "plugins": [
     {
       "name": "amaris-consulting",
-      "description": "Claude Code plugin for Amaris Consulting branded deliverables and brand tools",
-      "version": "0.3.30",
+      "description": "Plugin for Amaris Consulting branded deliverables and brand tools",
+      "version": "0.3.31",
       "author": {
         "name": "stromy-org"
       },

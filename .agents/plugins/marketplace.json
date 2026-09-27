@@ -1,0 +1,19 @@
+{
+  "name": "amaris-marketplace",
+  "interface": {
+    "displayName": "Amaris Consulting"
+  },
+  "plugins": [
+    {
+      "name": "amaris-consulting",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/amaris-plugin.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
