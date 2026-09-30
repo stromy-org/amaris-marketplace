@@ -8,7 +8,8 @@
       "name": "amaris-consulting",
       "source": {
         "source": "url",
-        "url": "https://github.com/stromy-org/amaris-plugin.git"
+        "url": "https://github.com/stromy-org/amaris-plugin.git",
+        "ref": "codex"
       },
       "policy": {
         "installation": "AVAILABLE",
